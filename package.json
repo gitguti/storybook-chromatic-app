@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@mikaelvesavuori/acmecorp-potted-plants-components": "latest",
-    "gitguti-potted-plants-components-starter": "file:../my-component-library",
+    "gitguti-potted-plants-components-starter": "^0.0.1",
     "prop-types": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
